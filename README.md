@@ -19,4 +19,4 @@ pnpm install
 pnpm --filter @zatgo/warehouse-desktop dev
 ```
 
-Vite port: **5179**. Default site URL: `https://erp.zatgo.online`.
+Vite port: **5179**. Default site URL: `https://demo.zatgo.online`.
